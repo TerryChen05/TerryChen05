@@ -1,16 +1,15 @@
-## Hi there 👋
+## About Me
 
-<!--
-**TerryChen05/TerryChen05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hey, I'm Terry
 
-Here are some ideas to get you started:
+📚 CE @ Toronto Metropolitan University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Always interested and learning about technology
+
+🤝 Feel free to connect, and have a chat with me!
+## Socials
+[![LINKEDIN](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/terry-chen05/)
+[![GITHUB](https://skillicons.dev/icons?i=github)](https://github.com/TerryChen05)
+[![EMAIL](https://skillicons.dev/icons?i=gmail)](mailto:terry1.chen@torontomu.com)
+
+Email: terry1.chen@torontomu.com or terrychen187@gmail.com
